@@ -259,7 +259,6 @@ PHA05,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
 CHE10,Chemistry,College of Arts and Sciences
 APY04,Anthropology,College of Arts and Sciences
 NEU04,Neurology,School of Medicine and Biomedical Sciences
-NUB02,Rehabilitation Medicine,Non-UB
 PEI13,Pediatrics,School of Medicine and Biomedical Sciences
 ANE02,Anesthesiology,School of Medicine and Biomedical Sciences
 DMS01,Media Study,College of Arts and Sciences
@@ -742,7 +741,6 @@ PEI29,Pediatrics,School of Medicine and Biomedical Sciences
 GLY01,Geology,College of Arts and Sciences
 CCR07,Center for Computational Research,Research Center and Institute
 ODS11,Oral Diagnostic Sciences,School of Dental Medicine
-NUB01,Roswell park - Biophysics,Non-UB
 LAI12,Learning and Instruction,Graduate School of Education
 PHS10,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
 PEI03,Pediatrics,School of Medicine and Biomedical Sciences
