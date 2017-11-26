@@ -1,0 +1,789 @@
+ID,Department,School
+PHA18,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+BIO24,Biological Sciences,College of Arts and Sciences
+PHA08,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+CCR04,Center for Computational Research,Research Center and Institute
+PHS08,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+URP02,Urban and Regional Planning,School of Architecture and Planning
+URP03,Urban and Regional Planning,School of Architecture and Planning
+CIE14,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+ODS14,Oral Diagnostic Sciences,School of Dental Medicine
+CSEP03,"Counseling, School and Educational Psychology",Graduate School of Education
+CSE37,Computer Science and Engineering,School of Engineering and Applied Sciences
+CDS10,Communicative Disorders & Sciences,College of Arts and Sciences
+CHD04,Center for Hearing & Deafness,College of Arts and Sciences
+CDS16,Communicative Disorders & Sciences,College of Arts and Sciences
+CHE18,Chemistry,College of Arts and Sciences
+PSY01,Psychology,College of Arts and Sciences
+PSY10,Psychology,College of Arts and Sciences
+MIM03,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+MIM09,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+CE02,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+EE16,Electrical Engineering,School of Engineering and Applied Sciences
+PAS09,Pathology and Anatomical Sciences,School of Medicine and Biomedical Sciences
+PAS04,Pathology and Anatomical Sciences,School of Medicine and Biomedical Sciences
+PSY21,Psychology,College of Arts and Sciences
+MAE18,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+CIE22,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+GEO08,Geography,College of Arts and Sciences
+GLY16,Geology,College of Arts and Sciences
+OBL10,Oral Biology,School of Dental Medicine
+GLY04,Geology,College of Arts and Sciences
+CCR06,Center for Computational Research,Research Center and Institute
+MTH12,Mathematics,College of Arts and Sciences
+EE13,Electrical Engineering,School of Engineering and Applied Sciences
+FMM03,Family Medicine,School of Medicine and Biomedical Sciences
+FMM04,Family Medicine,School of Medicine and Biomedical Sciences
+FMM10,Family Medicine,School of Medicine and Biomedical Sciences
+FMM16,Family Medicine,School of Medicine and Biomedical Sciences
+MDC02,Medicine,School of Medicine and Biomedical Sciences
+PHA10,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+PHA14,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+MDC37,Medicine,School of Medicine and Biomedical Sciences
+MDC03,Medicine,School of Medicine and Biomedical Sciences
+MDC10,Medicine,School of Medicine and Biomedical Sciences
+MDC17,Medicine,School of Medicine and Biomedical Sciences
+FMM15,Family Medicine,School of Medicine and Biomedical Sciences
+FMM17,Family Medicine,School of Medicine and Biomedical Sciences
+FMM19,Family Medicine,School of Medicine and Biomedical Sciences
+RTD02,Restorative Dentistry,School of Dental Medicine
+EEH02,Epidemiology and Environmental Health,School of Public Health and Health Professions
+BST05,Biostatistics,School of Public Health and Health Professions
+PHS09,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+FMM20,Family Medicine,School of Medicine and Biomedical Sciences
+FMM18,Family Medicine,School of Medicine and Biomedical Sciences
+MDC19,Medicine,School of Medicine and Biomedical Sciences
+FMM08,Family Medicine,School of Medicine and Biomedical Sciences
+CHE07,Chemistry,College of Arts and Sciences
+OMS01,Oral and Maxillofacial Surgery,School of Dental Medicine
+OMS02,Oral and Maxillofacial Surgery,School of Dental Medicine
+SNG20,School of Nursing,School of Nursing
+CHHB03,Community Health and Health Behavior,School of Public Health and Health Professions
+MDC21,Medicine,School of Medicine and Biomedical Sciences
+FMM09,Family Medicine,School of Medicine and Biomedical Sciences
+FMM05,Family Medicine,School of Medicine and Biomedical Sciences
+OBL12,Oral Biology,School of Dental Medicine
+OBL05,Oral Biology,School of Dental Medicine
+BST08,Biostatistics,School of Public Health and Health Professions
+CE07,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+CHE03,Chemistry,College of Arts and Sciences
+CSE09,Computer Science and Engineering,School of Engineering and Applied Sciences
+CIE06,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+OMS03,Oral and Maxillofacial Surgery,School of Dental Medicine
+PT09,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+CCR01,Center for Computational Research,Research Center and Institute
+CCR02,Center for Computational Research,Research Center and Institute
+CE04,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+PT18,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+LAI10,Learning and Instruction,Graduate School of Education
+BCH03,Biochemistry,School of Medicine and Biomedical Sciences
+TCIE01,Center for Industrial Effectiveness,School of Engineering and Applied Sciences
+IE08,Industrial and Systems Engineering,School of Engineering and Applied Sciences
+PEI19,Pediatrics,School of Medicine and Biomedical Sciences
+PEI22,Pediatrics,School of Medicine and Biomedical Sciences
+RES14,Rehabilitation Sciences,School of Public Health and Health Professions
+SS17,University Libraries,School Service
+SS18,University Libraries,School Service
+PSY15,Psychology,College of Arts and Sciences
+CHE08,Chemistry,College of Arts and Sciences
+MAE26,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+URP05,Urban and Regional Planning,School of Architecture and Planning
+GLY08,Geology,College of Arts and Sciences
+NEU02,Neurology,School of Medicine and Biomedical Sciences
+BCH02,Biochemistry,School of Medicine and Biomedical Sciences
+RIA02,Research Institute on Addictions,Research Center and Institute
+STOR01,"Science, Technology Transfer and Economic Outreach",Research Center and Institute
+EE07,Electrical Engineering,School of Engineering and Applied Sciences
+EE30,Electrical Engineering,School of Engineering and Applied Sciences
+RTD04,Restorative Dentistry,School of Dental Medicine
+NER01,Neurosurgery,School of Medicine and Biomedical Sciences
+NEU01,Neurology,School of Medicine and Biomedical Sciences
+NEU13,Neurology,School of Medicine and Biomedical Sciences
+DMS04,Media Study,College of Arts and Sciences
+THD01,Theatre and Dance,College of Arts and Sciences
+THD02,Theatre and Dance,College of Arts and Sciences
+GEO03,Geography,College of Arts and Sciences
+BIO23,Biological Sciences,College of Arts and Sciences
+PT02,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+COM04,Communication,College of Arts and Sciences
+GLY03,Geology,College of Arts and Sciences
+APY02,Anthropology,College of Arts and Sciences
+MGS02,Management Science and Systems,School of Management
+BME01,Biomedical Engineering,School of Engineering and Applied Sciences
+GEO09,Geography,College of Arts and Sciences
+BIO25,Biological Sciences,College of Arts and Sciences
+MIM07,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+STOR02,"Science, Technology Transfer and Economic Outreach",Research Center and Institute
+PHA09,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+PHA16,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+MDC16,Medicine,School of Medicine and Biomedical Sciences
+NEU03,Neurology,School of Medicine and Biomedical Sciences
+MDC11,Medicine,School of Medicine and Biomedical Sciences
+MDC25,Medicine,School of Medicine and Biomedical Sciences
+PHI02,Philosophy,College of Arts and Sciences
+IE06,Industrial and Systems Engineering,School of Engineering and Applied Sciences
+URP04,Urban and Regional Planning,School of Architecture and Planning
+ORH04,Orthopaedics,School of Medicine and Biomedical Sciences
+ORH08,Orthopaedics,School of Medicine and Biomedical Sciences
+PB11,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+RES01,Rehabilitation Sciences,School of Public Health and Health Professions
+CE01,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+ILPB02,Institute for Lasers Photonics and Biophotonics,Research Center and Institute
+CSEP12,"Counseling, School and Educational Psychology",Graduate School of Education
+ORH03,Orthopaedics,School of Medicine and Biomedical Sciences
+MAE10,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+CSE07,Computer Science and Engineering,School of Engineering and Applied Sciences
+CSE19,Computer Science and Engineering,School of Engineering and Applied Sciences
+ORH07,Orthopaedics,School of Medicine and Biomedical Sciences
+GYN02,Gynecology & Obstetrics,School of Medicine and Biomedical Sciences
+MDC45,Medicine,School of Medicine and Biomedical Sciences
+PB14,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+MGF01,Finance,School of Management
+EE29,Electrical Engineering,School of Engineering and Applied Sciences
+ELP08,Educational Leadership and Policy,Graduate School of Education
+CSEP04,"Counseling, School and Educational Psychology",Graduate School of Education
+PHA02,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+PEI15,Pediatrics,School of Medicine and Biomedical Sciences
+PEI24,Pediatrics,School of Medicine and Biomedical Sciences
+FMM01,Family Medicine,School of Medicine and Biomedical Sciences
+ORH09,Orthopaedics,School of Medicine and Biomedical Sciences
+CSE06,Computer Science and Engineering,School of Engineering and Applied Sciences
+PEI09,Pediatrics,School of Medicine and Biomedical Sciences
+MAE12,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+PAS03,Pathology and Anatomical Sciences,School of Medicine and Biomedical Sciences
+BCH07,Biochemistry,School of Medicine and Biomedical Sciences
+EE05,Electrical Engineering,School of Engineering and Applied Sciences
+EE06,Electrical Engineering,School of Engineering and Applied Sciences
+EE09,Electrical Engineering,School of Engineering and Applied Sciences
+EE11,Electrical Engineering,School of Engineering and Applied Sciences
+DO02,"College of Arts and Sciences, Dean's Office",College of Arts and Sciences
+EE14,Electrical Engineering,School of Engineering and Applied Sciences
+CE13,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+OBL03,Oral Biology,School of Dental Medicine
+OBL07,Oral Biology,School of Dental Medicine
+CSE16,Computer Science and Engineering,School of Engineering and Applied Sciences
+EEH03,Epidemiology and Environmental Health,School of Public Health and Health Professions
+EE17,Electrical Engineering,School of Engineering and Applied Sciences
+RIA12,Research Institute on Addictions,Research Center and Institute
+CHHB01,Community Health and Health Behavior,School of Public Health and Health Professions
+RIA06,Research Institute on Addictions,Research Center and Institute
+RIA13,Research Institute on Addictions,Research Center and Institute
+RIA05,Research Institute on Addictions,Research Center and Institute
+RIA16,Research Institute on Addictions,Research Center and Institute
+RIA08,Research Institute on Addictions,Research Center and Institute
+CSE21,Computer Science and Engineering,School of Engineering and Applied Sciences
+CDS02,Communicative Disorders & Sciences,College of Arts and Sciences
+CHD01,Center for Hearing & Deafness,College of Arts and Sciences
+CHHB06,Community Health and Health Behavior,School of Public Health and Health Professions
+MAE02,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+PEI07,Pediatrics,School of Medicine and Biomedical Sciences
+PHS06,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+ODS02,Oral Diagnostic Sciences,School of Dental Medicine
+CHI04,Psychiatry,School of Medicine and Biomedical Sciences
+ODS03,Oral Diagnostic Sciences,School of Dental Medicine
+ODS06,Oral Diagnostic Sciences,School of Dental Medicine
+ODS07,Oral Diagnostic Sciences,School of Dental Medicine
+ODS09,Oral Diagnostic Sciences,School of Dental Medicine
+PB13,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+ODS10,Oral Diagnostic Sciences,School of Dental Medicine
+RIA03,Research Institute on Addictions,Research Center and Institute
+RIA04,Research Institute on Addictions,Research Center and Institute
+BST07,Biostatistics,School of Public Health and Health Professions
+PSY16,Psychology,College of Arts and Sciences
+PHA01,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+PHA04,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+PHA06,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+SCO05,Sociology,College of Arts and Sciences
+ANE02,Anesthesiology,School of Medicine and Biomedical Sciences
+PT05,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+ILPB03,Institute for Lasers Photonics and Biophotonics,Research Center and Institute
+ILPB05,Institute for Lasers Photonics and Biophotonics,Research Center and Institute
+MTH03,Mathematics,College of Arts and Sciences
+RAD01,Radiology,School of Medicine and Biomedical Sciences
+NER02,Neurosurgery,School of Medicine and Biomedical Sciences
+NER03,Neurosurgery,School of Medicine and Biomedical Sciences
+RAD02,Radiology,School of Medicine and Biomedical Sciences
+NER04,Neurosurgery,School of Medicine and Biomedical Sciences
+EE03,Electrical Engineering,School of Engineering and Applied Sciences
+CIE15,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+CSE02,Computer Science and Engineering,School of Engineering and Applied Sciences
+CSE13,Computer Science and Engineering,School of Engineering and Applied Sciences
+CSE14,Computer Science and Engineering,School of Engineering and Applied Sciences
+RIA24,Research Institute on Addictions,Research Center and Institute
+SSW13,School of Social Work,School of Social Work
+PHY03,Physics,College of Arts and Sciences
+BCH12,Biochemistry,School of Medicine and Biomedical Sciences
+CHD02,Center for Hearing & Deafness,College of Arts and Sciences
+SNG21,School of Nursing,School of Nursing
+SNG09,School of Nursing,School of Nursing
+SNG10,School of Nursing,School of Nursing
+CIE02,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+CIE08,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+SNG22,School of Nursing,School of Nursing
+RES03,Rehabilitation Sciences,School of Public Health and Health Professions
+ILPB04,Institute for Lasers Photonics and Biophotonics,Research Center and Institute
+MAE03,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+PHY22,Physics,College of Arts and Sciences
+RIA01,Research Institute on Addictions,Research Center and Institute
+BCH20,Biochemistry,School of Medicine and Biomedical Sciences
+MDC01,Medicine,School of Medicine and Biomedical Sciences
+MDC06,Medicine,School of Medicine and Biomedical Sciences
+CEPP01,Center of Excellence in Pharmacokinetics and Pharmacodynamics ,School of Pharmacy and Pharmaceutical Sciences
+PHS07,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+CSE20,Computer Science and Engineering,School of Engineering and Applied Sciences
+RES02,Rehabilitation Sciences,School of Public Health and Health Professions
+EEH16,Epidemiology and Environmental Health,School of Public Health and Health Professions
+PB19,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+MAE17,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+PHS02,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+CHI03,Psychiatry,School of Medicine and Biomedical Sciences
+COM03,Communication,College of Arts and Sciences
+CSE03,Computer Science and Engineering,School of Engineering and Applied Sciences
+MDC49,Medicine,School of Medicine and Biomedical Sciences
+ENS02,Exercise and Nutrition Sciences,School of Public Health and Health Professions
+CSE27,Computer Science and Engineering,School of Engineering and Applied Sciences
+MDC33,Medicine,School of Medicine and Biomedical Sciences
+MDC41,Medicine,School of Medicine and Biomedical Sciences
+MIM04,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+CHE01,Chemistry,College of Arts and Sciences
+PB06,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+PB15,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+PB10,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+PB05,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+PT08,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+CHHB02,Community Health and Health Behavior,School of Public Health and Health Professions
+CE10,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+GEO06,Geography,College of Arts and Sciences
+BST02,Biostatistics,School of Public Health and Health Professions
+BST11,Biostatistics,School of Public Health and Health Professions
+CHE25,Chemistry,College of Arts and Sciences
+BIO03,Biological Sciences,College of Arts and Sciences
+CIE03,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+NUM07,Nuclear Medicine,School of Medicine and Biomedical Sciences
+ORT01,Orthodontics,School of Dental Medicine
+BIO29,Biological Sciences,College of Arts and Sciences
+COM02,Communication,College of Arts and Sciences
+IE09,Industrial and Systems Engineering,School of Engineering and Applied Sciences
+CHE02,Chemistry,College of Arts and Sciences
+CSE05,Computer Science and Engineering,School of Engineering and Applied Sciences
+CSE10,Computer Science and Engineering,School of Engineering and Applied Sciences
+STOR03,"Science, Technology Transfer and Economic Outreach",Research Center and Institute
+CBLS01,NYS Center of Excellence in Bioinformatics and Life Sciences,Research Center and Institute
+STOR04,"Science, Technology Transfer and Economic Outreach",Research Center and Institute
+CEDI03,NYS Center for Engineering Design and Industrial Innovation,School of Engineering and Applied Sciences
+CFEI01,Center for Educational Innovation,Research Center and Institute
+MDC05,Medicine,School of Medicine and Biomedical Sciences
+MDC12,Medicine,School of Medicine and Biomedical Sciences
+CSEP01,"Counseling, School and Educational Psychology",Graduate School of Education
+PEI04,Pediatrics,School of Medicine and Biomedical Sciences
+LAI18,Learning and Instruction,Graduate School of Education
+EEH01,Epidemiology and Environmental Health,School of Public Health and Health Professions
+MAE13,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+IE01,Industrial and Systems Engineering,School of Engineering and Applied Sciences
+DMS06,Media Study,College of Arts and Sciences
+SNG12,School of Nursing,School of Nursing
+GLY05,Geology,College of Arts and Sciences
+PHY23,Physics,College of Arts and Sciences
+PHY07,Physics,College of Arts and Sciences
+PHY08,Physics,College of Arts and Sciences
+PHY09,Physics,College of Arts and Sciences
+EE21,Electrical Engineering,School of Engineering and Applied Sciences
+EE27,Electrical Engineering,School of Engineering and Applied Sciences
+CHE21,Chemistry,College of Arts and Sciences
+CHE12,Chemistry,College of Arts and Sciences
+CHE16,Chemistry,College of Arts and Sciences
+CHE19,Chemistry,College of Arts and Sciences
+CHE31,Chemistry,College of Arts and Sciences
+CHD03,Center for Hearing & Deafness,College of Arts and Sciences
+RIA11,Research Institute on Addictions,Research Center and Institute
+EE12,Electrical Engineering,School of Engineering and Applied Sciences
+LAW03,Law School,Law School
+EE24,Electrical Engineering,School of Engineering and Applied Sciences
+MDC20,Medicine,School of Medicine and Biomedical Sciences
+PSY03,Psychology,College of Arts and Sciences
+BCLS01,Biotechnical and Clinical Laboratory Sciences,School of Medicine and Biomedical Sciences
+GEO13,Geography,College of Arts and Sciences
+PHA13,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+IE07,Industrial and Systems Engineering,School of Engineering and Applied Sciences
+MIM18,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+SSW09,School of Social Work,School of Social Work
+URP06,Urban and Regional Planning,School of Architecture and Planning
+RIA17,Research Institute on Addictions,Research Center and Institute
+RIA19,Research Institute on Addictions,Research Center and Institute
+MGS01,Management Science and Systems,School of Management
+MDC39,Medicine,School of Medicine and Biomedical Sciences
+OBL02,Oral Biology,School of Dental Medicine
+MGM01,Marketing,School of Management
+MIM06,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+IE02,Industrial and Systems Engineering,School of Engineering and Applied Sciences
+CSE04,Computer Science and Engineering,School of Engineering and Applied Sciences
+PAS07,Pathology and Anatomical Sciences,School of Medicine and Biomedical Sciences
+NUM02,Nuclear Medicine,School of Medicine and Biomedical Sciences
+PT15,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+EEH15,Epidemiology and Environmental Health,School of Public Health and Health Professions
+EEH07,Epidemiology and Environmental Health,School of Public Health and Health Professions
+ANE01,Anesthesiology,School of Medicine and Biomedical Sciences
+ANE03,Anesthesiology,School of Medicine and Biomedical Sciences
+RIA15,Research Institute on Addictions,Research Center and Institute
+CSEP06,"Counseling, School and Educational Psychology",Graduate School of Education
+CSE17,Computer Science and Engineering,School of Engineering and Applied Sciences
+CHE05,Chemistry,College of Arts and Sciences
+CHE10,Chemistry,College of Arts and Sciences
+MAE06,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+SEEL01,Student Engagement & Experiential Learning,Research Center and Institute
+SNG24,School of Nursing,School of Nursing
+BME02,Biomedical Engineering,School of Engineering and Applied Sciences
+CCR03,Center for Computational Research,Research Center and Institute
+CSE11,Computer Science and Engineering,School of Engineering and Applied Sciences
+BCH14,Biochemistry,School of Medicine and Biomedical Sciences
+MAE19,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+MAE22,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+MAE11,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+MAE05,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+MDC52,Medicine,School of Medicine and Biomedical Sciences
+CCR08,Center for Computational Research,Research Center and Institute
+SCO02,Sociology,College of Arts and Sciences
+SS11,Health Sciences Library,School Service
+NER10,Neurosurgery,School of Medicine and Biomedical Sciences
+PT14,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+LAW01,Law School,Law School
+MTH15,Mathematics,College of Arts and Sciences
+GLY18,Geology,College of Arts and Sciences
+GLY19,Geology,College of Arts and Sciences
+LAW07,Law School,Law School
+NEU08,Neurology,School of Medicine and Biomedical Sciences
+EE04,Electrical Engineering,School of Engineering and Applied Sciences
+MAE16,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+ENG08,English,College of Arts and Sciences
+PEI18,Pediatrics,School of Medicine and Biomedical Sciences
+LAI11,Learning and Instruction,Graduate School of Education
+NEU06,Neurology,School of Medicine and Biomedical Sciences
+CHE06,Chemistry,College of Arts and Sciences
+CHE04,Chemistry,College of Arts and Sciences
+EEH12,Epidemiology and Environmental Health,School of Public Health and Health Professions
+D001,"College of Arts and Sciences, Dean's Office",College of Arts and Sciences
+SNG26,School of Nursing,School of Nursing
+SNG14,School of Nursing,School of Nursing
+CSE38,Computer Science and Engineering,School of Engineering and Applied Sciences
+APY16,Anthropology,College of Arts and Sciences
+APY12,Anthropology,College of Arts and Sciences
+APY17,Anthropology,College of Arts and Sciences
+LAW09,Law School,Law School
+APY05,Anthropology,College of Arts and Sciences
+APY10,Anthropology,College of Arts and Sciences
+PSY22,Psychology,College of Arts and Sciences
+MIM10,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+GEO01,Geography,College of Arts and Sciences
+SSW14,School of Social Work,School of Social Work
+CE11,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+GLY20,Geology,College of Arts and Sciences
+MDC31,Medicine,School of Medicine and Biomedical Sciences
+PB02,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+PT11,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+PAS10,Pathology and Anatomical Sciences,School of Medicine and Biomedical Sciences
+ART02,Art,College of Arts and Sciences
+LAI07,Learning and Instruction,Graduate School of Education
+DMS03,Media Study,College of Arts and Sciences
+MDC36,Medicine,School of Medicine and Biomedical Sciences
+ELP07,Educational Leadership and Policy,Graduate School of Education
+SNG02,School of Nursing,School of Nursing
+MDC27,Medicine,School of Medicine and Biomedical Sciences
+LAI04,Learning and Instruction,Graduate School of Education
+LAI03,Learning and Instruction,Graduate School of Education
+EEH04,Epidemiology and Environmental Health,School of Public Health and Health Professions
+PSY11,Psychology,College of Arts and Sciences
+CHHB04,Community Health and Health Behavior,School of Public Health and Health Professions
+SSW16,School of Social Work,School of Social Work
+RIA07,Research Institute on Addictions,Research Center and Institute
+CRSE01,Center for Research and Education in Special Environments,Research Center and Institute
+SNG18,School of Nursing,School of Nursing
+BCLS02,Biotechnical and Clinical Laboratory Sciences,School of Medicine and Biomedical Sciences
+BCLS03,Biotechnical and Clinical Laboratory Sciences,School of Medicine and Biomedical Sciences
+PEI43,Pediatrics,School of Medicine and Biomedical Sciences
+CHI09,Psychiatry,School of Medicine and Biomedical Sciences
+CSE08,Computer Science and Engineering,School of Engineering and Applied Sciences
+MAE15,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+NER05,Neurosurgery,School of Medicine and Biomedical Sciences
+OPH01,Ophthalmology,School of Medicine and Biomedical Sciences
+BIO27,Biological Sciences,College of Arts and Sciences
+PHA19,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+PHS12,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+CIE18,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+OBL01,Oral Biology,School of Dental Medicine
+CEDI02,NYS Center for Engineering Design and Industrial Innovation,School of Engineering and Applied Sciences
+CDS05,Communicative Disorders & Sciences,College of Arts and Sciences
+PSY14,Psychology,College of Arts and Sciences
+MDC24,Medicine,School of Medicine and Biomedical Sciences
+PB17,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+COM06,Communication,College of Arts and Sciences
+OBL09,Oral Biology,School of Dental Medicine
+MAE23,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+FMM21,Family Medicine,School of Medicine and Biomedical Sciences
+RTD03,Restorative Dentistry,School of Dental Medicine
+CSE32,Computer Science and Engineering,School of Engineering and Applied Sciences
+FMM14,Family Medicine,School of Medicine and Biomedical Sciences
+CHE23,Chemistry,College of Arts and Sciences
+FMM11,Family Medicine,School of Medicine and Biomedical Sciences
+CE12,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+CEDAR01,Center of Excellence for Document Analysis & Recognition,School of Engineering and Applied Sciences
+CIE20,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+PED04,Periodontics and Endodontics,School of Dental Medicine
+CDS06,Communicative Disorders & Sciences,College of Arts and Sciences
+CHE11,Chemistry,College of Arts and Sciences
+CE15,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+NEU15,Neurology,School of Medicine and Biomedical Sciences
+BST13,Biostatistics,School of Public Health and Health Professions
+SS19,University Libraries,School Service
+PEI41,Pediatrics,School of Medicine and Biomedical Sciences
+PEI39,Pediatrics,School of Medicine and Biomedical Sciences
+GLY21,Geology,College of Arts and Sciences
+PSY09,Psychology,College of Arts and Sciences
+BCH15,Biochemistry,School of Medicine and Biomedical Sciences
+CE14,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+PED03,Periodontics and Endodontics,School of Dental Medicine
+NEU16,Neurology,School of Medicine and Biomedical Sciences
+COM11,Communication,College of Arts and Sciences
+ANE04,Anesthesiology,School of Medicine and Biomedical Sciences
+IE13,Industrial and Systems Engineering,School of Engineering and Applied Sciences
+APY07,Anthropology,College of Arts and Sciences
+COM09,Communication,College of Arts and Sciences
+ODS11,Oral Diagnostic Sciences,School of Dental Medicine
+CSE31,Computer Science and Engineering,School of Engineering and Applied Sciences
+BST12,Biostatistics,School of Public Health and Health Professions
+PED07,Periodontics and Endodontics,School of Dental Medicine
+PHA20,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+CHI06,Psychiatry,School of Medicine and Biomedical Sciences
+CSE01,Computer Science and Engineering,School of Engineering and Applied Sciences
+CSEP09,"Counseling, School and Educational Psychology",Graduate School of Education
+ECO03,Economics,College of Arts and Sciences
+CSEP08,"Counseling, School and Educational Psychology",Graduate School of Education
+MDC44,Medicine,School of Medicine and Biomedical Sciences
+ORH10,Orthopaedics,School of Medicine and Biomedical Sciences
+PEI27,Pediatrics,School of Medicine and Biomedical Sciences
+PEI52,Pediatrics,School of Medicine and Biomedical Sciences
+MDC42,Medicine,School of Medicine and Biomedical Sciences
+OBL08,Oral Biology,School of Dental Medicine
+CSE23,Computer Science and Engineering,School of Engineering and Applied Sciences
+MDC53,Medicine,School of Medicine and Biomedical Sciences
+EEH11,Epidemiology and Environmental Health,School of Public Health and Health Professions
+EE18,Electrical Engineering,School of Engineering and Applied Sciences
+RIA23,Research Institute on Addictions,Research Center and Institute
+RIA22,Research Institute on Addictions,Research Center and Institute
+BCH08,Biochemistry,School of Medicine and Biomedical Sciences
+EEH10,Epidemiology and Environmental Health,School of Public Health and Health Professions
+ENS04,Exercise and Nutrition Sciences,School of Public Health and Health Professions
+PHS11,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+EE19,Electrical Engineering,School of Engineering and Applied Sciences
+BIO16,Biological Sciences,College of Arts and Sciences
+PHA25,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+PT13,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+RIA26,Research Institute on Addictions,Research Center and Institute
+PHY05,Physics,College of Arts and Sciences
+MCEER01,MCEER,Research Center and Institute
+MDC54,Medicine,School of Medicine and Biomedical Sciences
+PHY04,Physics,College of Arts and Sciences
+ENS11,Exercise and Nutrition Sciences,School of Public Health and Health Professions
+MDC28,Medicine,School of Medicine and Biomedical Sciences
+CCR09,Center for Computational Research,Research Center and Institute
+CSE24,Computer Science and Engineering,School of Engineering and Applied Sciences
+RES15,Rehabilitation Sciences,School of Public Health and Health Professions
+GYN04,Gynecology & Obstetrics,School of Medicine and Biomedical Sciences
+ARC07,Architecture,School of Architecture and Planning
+EEH20,Epidemiology and Environmental Health,School of Public Health and Health Professions
+RES11,Rehabilitation Sciences,School of Public Health and Health Professions
+PHY10,Physics,College of Arts and Sciences
+PB16,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+CHHB05,Community Health and Health Behavior,School of Public Health and Health Professions
+BME03,Biomedical Engineering,School of Engineering and Applied Sciences
+ORT02,Orthodontics,School of Dental Medicine
+COM05,Communication,College of Arts and Sciences
+NEU18,Neurology,School of Medicine and Biomedical Sciences
+COM10,Communication,College of Arts and Sciences
+EE10,Electrical Engineering,School of Engineering and Applied Sciences
+CEL01,Center for Entrepreneurial Leadership,School of Management
+CFEI02,Center for Educational Innovation,Research Center and Institute
+RES09,Rehabilitation Sciences,School of Public Health and Health Professions
+PEI50,Pediatrics,School of Medicine and Biomedical Sciences
+LAI21,Learning and Instruction,Graduate School of Education
+CSE30,Computer Science and Engineering,School of Engineering and Applied Sciences
+IE15,Industrial and Systems Engineering,School of Engineering and Applied Sciences
+APY09,Anthropology,College of Arts and Sciences
+IE10,Industrial and Systems Engineering,School of Engineering and Applied Sciences
+SSW12,School of Social Work,School of Social Work
+PHY14,Physics,College of Arts and Sciences
+CHE27,Chemistry,College of Arts and Sciences
+RIA18,Research Institute on Addictions,Research Center and Institute
+CHE26,Chemistry,College of Arts and Sciences
+EE26,Electrical Engineering,School of Engineering and Applied Sciences
+PHS10,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+EE32,Electrical Engineering,School of Engineering and Applied Sciences
+PHY13,Physics,College of Arts and Sciences
+CHI10,Psychiatry,School of Medicine and Biomedical Sciences
+MIM12,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+CUS01,Center for Urban Studies,School of Architecture and Planning
+BCH21,Biochemistry,School of Medicine and Biomedical Sciences
+OBL13,Oral Biology,School of Dental Medicine
+IE12,Industrial and Systems Engineering,School of Engineering and Applied Sciences
+PAS05,Pathology and Anatomical Sciences,School of Medicine and Biomedical Sciences
+NUM04,Nuclear Medicine,School of Medicine and Biomedical Sciences
+SNG28,School of Nursing,School of Nursing
+MIM02,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+PAS02,Pathology and Anatomical Sciences,School of Medicine and Biomedical Sciences
+MDC71,Medicine,School of Medicine and Biomedical Sciences
+BST09,Biostatistics,School of Public Health and Health Professions
+PAS08,Pathology and Anatomical Sciences,School of Medicine and Biomedical Sciences
+SNG15,School of Nursing,School of Nursing
+CSE18,Computer Science and Engineering,School of Engineering and Applied Sciences
+PSY04,Psychology,College of Arts and Sciences
+MAE14,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+SS20,University Libraries,School Service
+GLY17,Geology,College of Arts and Sciences
+CSEP07,"Counseling, School and Educational Psychology",Graduate School of Education
+MAE20,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+HIS05,History,College of Arts and Sciences
+PEI49,Pediatrics,School of Medicine and Biomedical Sciences
+LAI16,Learning and Instruction,Graduate School of Education
+CHE22,Chemistry,College of Arts and Sciences
+CHE30,Chemistry,College of Arts and Sciences
+PSY08,Psychology,College of Arts and Sciences
+SS15,Student Health and Wellness,School Service
+FMM07,Family Medicine,School of Medicine and Biomedical Sciences
+SS14,Center For The Arts,School Service
+URP09,Urban and Regional Planning,School of Architecture and Planning
+BCH05,Biochemistry,School of Medicine and Biomedical Sciences
+BCH16,Biochemistry,School of Medicine and Biomedical Sciences
+SSW08,School of Social Work,School of Social Work
+BCH18,Biochemistry,School of Medicine and Biomedical Sciences
+PHY16,Physics,College of Arts and Sciences
+EEH08,Epidemiology and Environmental Health,School of Public Health and Health Professions
+MDC04,Medicine,School of Medicine and Biomedical Sciences
+SCO07,Sociology,College of Arts and Sciences
+ELP09,Educational Leadership and Policy,Graduate School of Education
+CHE20,Chemistry,College of Arts and Sciences
+LAI09,Learning and Instruction,Graduate School of Education
+RIA21,Research Institute on Addictions,Research Center and Institute
+OPH04,Ophthalmology,School of Medicine and Biomedical Sciences
+CSE26,Computer Science and Engineering,School of Engineering and Applied Sciences
+CHI07,Psychiatry,School of Medicine and Biomedical Sciences
+MGF02,Finance,School of Management
+OPH08,Ophthalmology,School of Medicine and Biomedical Sciences
+SS12,WBFO,School Service 
+BIO28,Biological Sciences,College of Arts and Sciences
+CDS12,Communicative Disorders & Sciences,College of Arts and Sciences
+CIE25,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+MDC43,Medicine,School of Medicine and Biomedical Sciences
+MIM19,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+PB20,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+MDC35,Medicine,School of Medicine and Biomedical Sciences
+BCH11,Biochemistry,School of Medicine and Biomedical Sciences
+BIO12,Biological Sciences,College of Arts and Sciences
+CIE26,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+GLY06,Geology,College of Arts and Sciences
+BIO20,Biological Sciences,College of Arts and Sciences
+BIO07,Biological Sciences,College of Arts and Sciences
+BIO13,Biological Sciences,College of Arts and Sciences
+LIN01,Linguistics,College of Arts and Sciences
+LIN05,Linguistics,College of Arts and Sciences
+SSW03,School of Social Work,School of Social Work
+PHY12,Physics,College of Arts and Sciences
+LPP01,Liberty Partnerships Program,Graduate School of Education
+LAW06,Law School,Law School
+ENG07,English,College of Arts and Sciences
+CHE29,Chemistry,College of Arts and Sciences
+DO04,"College of Arts and Sciences, Dean's Office",College of Arts and Sciences
+MAE21,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+PHA21,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+MAE09,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+CHE14,Chemistry,College of Arts and Sciences
+CHE17,Chemistry,College of Arts and Sciences
+SSW15,School of Social Work,School of Social Work
+PEI38,Pediatrics,School of Medicine and Biomedical Sciences
+GEO02,Geography,College of Arts and Sciences
+PT03,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+MIM11,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+CHI05,Psychiatry,School of Medicine and Biomedical Sciences
+MIM05,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+PSY23,Psychology,College of Arts and Sciences
+EOC04,Educational Opportunity Center,Research Center and Institute
+SUR05,Surgery,School of Medicine and Biomedical Sciences
+PED02,Periodontics and Endodontics,School of Dental Medicine
+URO02,Urology,School of Medicine and Biomedical Sciences
+BME05,Biomedical Engineering,School of Engineering and Applied Sciences
+MDC34,Medicine,School of Medicine and Biomedical Sciences
+GEO07,Geography,College of Arts and Sciences
+APY01,Anthropology,College of Arts and Sciences
+EE15,Electrical Engineering,School of Engineering and Applied Sciences
+CHE13,Chemistry,College of Arts and Sciences
+PT06,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+PB07,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+CL02,Classics,College of Arts and Sciences
+PHY18,Physics,College of Arts and Sciences
+PEI16,Pediatrics,School of Medicine and Biomedical Sciences
+MAE04,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+SEASD01,Dean's Office,School of Engineering and Applied Sciences
+PT10,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+BIO08,Biological Sciences,College of Arts and Sciences
+APY13,Anthropology,College of Arts and Sciences
+SS03,University Libraries,School Service
+MIM16,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+COF02,Communications Officer,School of Architecture and Planning
+GEO05,Geography,College of Arts and Sciences
+UBRI01,The Regional Institute,School of Architecture and Planning
+ODS08,Oral Diagnostic Sciences,School of Dental Medicine
+CE06,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+CE08,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+PEI51,Pediatrics,School of Medicine and Biomedical Sciences
+EE31,Electrical Engineering,School of Engineering and Applied Sciences
+MTH16,Mathematics,College of Arts and Sciences
+PED06,Periodontics and Endodontics,School of Dental Medicine
+CIWM01,Center for Integrated Waste Management,School of Engineering and Applied Sciences
+SUR04,Surgery,School of Medicine and Biomedical Sciences
+SBI01,Structural Biology,School of Medicine and Biomedical Sciences
+LIN03,Linguistics,College of Arts and Sciences
+RTD01,Restorative Dentistry,School of Dental Medicine
+MDC46,Medicine,School of Medicine and Biomedical Sciences
+CL01,Classics,College of Arts and Sciences
+PB09,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+CDS03,Communicative Disorders & Sciences,College of Arts and Sciences
+BST04,Biostatistics,School of Public Health and Health Professions
+PHS03,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+ENS03,Exercise and Nutrition Sciences,School of Public Health and Health Professions
+OBL06,Oral Biology,School of Dental Medicine
+CIE24,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+OPH03,Ophthalmology,School of Medicine and Biomedical Sciences
+MAE08,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+PHS14,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+MGM02,Marketing,School of Management
+NEU12,Neurology,School of Medicine and Biomedical Sciences
+NEU17,Neurology,School of Medicine and Biomedical Sciences
+MDC47,Medicine,School of Medicine and Biomedical Sciences
+MIM21,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+APY14,Anthropology,College of Arts and Sciences
+LAW04,Law School,Law School
+APY03,Anthropology,College of Arts and Sciences
+LIN06,Linguistics,College of Arts and Sciences
+DO05,"College of Arts and Sciences, Dean's Office",College of Arts and Sciences
+MDC07,Medicine,School of Medicine and Biomedical Sciences
+BCH09,Biochemistry,School of Medicine and Biomedical Sciences
+MTH11,Mathematics,College of Arts and Sciences
+CIE05,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+BST10,Biostatistics,School of Public Health and Health Professions
+CIE17,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+PHY02,Physics,College of Arts and Sciences
+ENS06,Exercise and Nutrition Sciences,School of Public Health and Health Professions
+PSY17,Psychology,College of Arts and Sciences
+BCH06,Biochemistry,School of Medicine and Biomedical Sciences
+CAT03,Center for Assistive Technology,School of Public Health and Health Professions
+GLY13,Geology,College of Arts and Sciences
+DMS02,Media Study,College of Arts and Sciences
+MDC48,Medicine,School of Medicine and Biomedical Sciences
+EE08,Electrical Engineering,School of Engineering and Applied Sciences
+EEH18,Epidemiology and Environmental Health,School of Public Health and Health Professions
+ARC06,Architecture,School of Architecture and Planning
+MTH01,Mathematics,College of Arts and Sciences
+MTH08,Mathematics,College of Arts and Sciences
+NUB03,Computer Science,Non-UB
+BCLS05,Biotechnical and Clinical Laboratory Sciences,School of Medicine and Biomedical Sciences
+EEH19,Epidemiology and Environmental Health,School of Public Health and Health Professions
+SDDO01,Dean's Office,School of Dental Medicine
+RLL03,Romance Languages and Literature,College of Arts and Sciences
+DMS05,Media Study,College of Arts and Sciences
+GLY02,Geology,College of Arts and Sciences
+SSW04,School of Social Work,School of Social Work
+CDS09,Communicative Disorders & Sciences,College of Arts and Sciences
+MDC50,Medicine,School of Medicine and Biomedical Sciences
+ELP01,Educational Leadership and Policy,Graduate School of Education
+MDC38,Medicine,School of Medicine and Biomedical Sciences
+CSE29,Computer Science and Engineering,School of Engineering and Applied Sciences
+MIM22,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+MIM23,Microbiology and Immunology,School of Medicine and Biomedical Sciences
+MAE07,Mechanical & Aerospace Engineering,School of Engineering and Applied Sciences
+CSE15,Computer Science and Engineering,School of Engineering and Applied Sciences
+CSEP02,"Counseling, School and Educational Psychology",Graduate School of Education
+APY11,Anthropology,College of Arts and Sciences
+URP01,Urban And Regional Planning,School of Architecture and Planning
+URP10,Urban and Regional Planning,School of Architecture and Planning
+GLY07,Geology,College of Arts and Sciences
+PT01,Pharmacology & Toxicology,School of Medicine and Biomedical Sciences
+CHHB08,Community Health and Health Behavior,School of Public Health and Health Professions
+SSW11,School of Social Work,School of Social Work
+GLY10,Geology,College of Arts and Sciences
+PHY19,Physics,College of Arts and Sciences
+SCO06,Sociology,College of Arts and Sciences
+BIO09,Biological Sciences,College of Arts and Sciences
+SCO01,Sociology,College of Arts and Sciences
+PSY05,Psychology,College of Arts and Sciences
+APY15,Anthropology,College of Arts and Sciences
+URO01,Urology,School of Medicine and Biomedical Sciences
+MDC13,Medicine,School of Medicine and Biomedical Sciences
+BME04,Biomedical Engineering,School of Engineering and Applied Sciences
+CE18,Chemical and Biological Engineering,School of Engineering and Applied Sciences
+OBL14,Oral Biology,School of Dental Medicine
+PHA22,Pharmacy,School of Pharmacy and Pharmaceutical Sciences
+OUPP01,Office for University Preparatory Programs ,Graduate School of Education
+MDC22,Medicine,School of Medicine and Biomedical Sciences
+PB18,Physiology & Biophysics,School of Medicine and Biomedical Sciences
+MTH14,Mathematics,College of Arts and Sciences
+RES05,Rehabilitation Sciences,School of Public Health and Health Professions
+OBL15,Oral Biology,School of Dental Medicine
+CDS04,Communicative Disorders & Sciences,College of Arts and Sciences
+MDC15,Medicine,School of Medicine and Biomedical Sciences
+PSY24,Psychology,College of Arts and Sciences
+BCH10,Biochemistry,School of Medicine and Biomedical Sciences
+BCLS04,Biotechnical and Clinical Laboratory Sciences,School of Medicine and Biomedical Sciences
+CPMC03,Cora P Maloney College,Research Center and Institute
+PHI03,Philosophy,College of Arts and Sciences
+RIA14,Research Institute on Addictions,Research Center and Institute
+SNG07,School of Nursing,School of Nursing
+NEU05,Neurology,School of Medicine and Biomedical Sciences
+PHY21,Physics,College of Arts and Sciences
+CSE36,Computer Science and Engineering,School of Engineering and Applied Sciences
+EEH09,Epidemiology and Environmental Health,School of Public Health and Health Professions
+MDC51,Medicine,School of Medicine and Biomedical Sciences
+PEI01,Pediatrics,School of Medicine and Biomedical Sciences
+PSC02,Political Science,College of Arts and Sciences
+SNG23,School of Nursing,School of Nursing
+SS04,General Library Access Services,School Service
+STEP01,Science and Technology Enrichment Program,Graduate School of Education
+SBI02,Structural Biology,School of Medicine and Biomedical Sciences
+NEU11,Neurology,School of Medicine and Biomedical Sciences
+CAT05,Center for Assistive Technology,School of Public Health and Health Professions
+HIS04,History,College of Arts and Sciences
+ELP04,Educational Leadership and Policy,Graduate School of Education
+PEI08,Pediatrics,School of Medicine and Biomedical Sciences
+PHY15,Physics,College of Arts and Sciences
+PEI03,Pediatrics,School of Medicine and Biomedical Sciences
+EOC02,Educational Opportunity Center,Research Center and Institute
+PSY12,Psychology,College of Arts and Sciences
+NER09,Neurosurgery,School of Medicine and Biomedical Sciences
+BIO17,Biological Sciences,College of Arts and Sciences
+CIE11,"Civil, Structural & Environmental Engineering",School of Engineering and Applied Sciences
+SUR10,Surgery,School of Medicine and Biomedical Sciences
+SNG11,School of Nursing,School of Nursing
+EEH06,Epidemiology and Environmental Health,School of Public Health and Health Professions
+GEO04,Geography,College of Arts and Sciences
+NER11,Neurosurgery,School of Medicine and Biomedical Sciences
+PSY25,Psychology,College of Arts and Sciences
+BIO30,Biological Sciences,College of Arts and Sciences
+CSEP13,"Counseling, School and Educational Psychology",Graduate School of Education
+LAI06,Learning and Instruction,Graduate School of Education
+PHY01,Physics,College of Arts and Sciences
+PHY17,Physics,College of Arts and Sciences
+BCH01,Biochemistry,School of Medicine and Biomedical Sciences
+ARC05,Architecture,School of Architecture and Planning
+LAW08,Law School,Law School
+SSW17,School of Social Work,School of Social Work
+BIO31,Biological Sciences,College of Arts and Sciences
+ENS05,Exercise and Nutrition Sciences,School of Public Health and Health Professions
+PHS05,Pharmaceutical Sciences,School of Pharmacy and Pharmaceutical Sciences
+SNG25,School of Nursing,School of Nursing
+BIO11,Biological Sciences,College of Arts and Sciences
+SS08,Office of Vice Provost for International Education,School Service
+LIN07,Linguistics,College of Arts and Sciences
+SSW05,School of Social Work,School of Social Work
+PEI44,Pediatrics,School of Medicine and Biomedical Sciences
+DERM01,Dermatology,School of Medicine and Biomedical Sciences
+GEO14,Geography,College of Arts and Sciences
+PEI11,Pediatrics,School of Medicine and Biomedical Sciences
+SSW18,School of Social Work,School of Social Work
+SSW19,School of Social Work,School of Social Work
